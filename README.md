@@ -1,2 +1,2 @@
 # Golang
-Practice problems to learn golang.
+Implementation of datastructures and some practice problems from exercism.io
