@@ -1,3 +1,5 @@
+//Program to print number pattern upto given number of rows
+
 package main
 
 import "fmt"
